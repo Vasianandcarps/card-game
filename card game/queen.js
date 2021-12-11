@@ -33,10 +33,8 @@ function play() {
               alert("You win");
               break;
             }else {
-              
-                alert("I win")
-                break;
-              
+              alert("I win")
+              break;
             }
       }
     }
